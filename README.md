@@ -1,5 +1,5 @@
 # Calc
-https://hsj71.github.io/Calc/](https://hsj71.github.io/Web-ScientificCalc/
+[https://hsj71.github.io/Calc/](https://hsj71.github.io/Web-ScientificCalc/)
 
 # For React
 1. Create a React app (Vite recommended):
